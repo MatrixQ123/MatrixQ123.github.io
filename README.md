@@ -6,7 +6,7 @@ Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym
 ## Doświadczenie
 Mam doświadczenie z językiem programowania scratch. Uczę się programować w jezyku python i javascript.
 ## Moje Cele
-W przyszłości chciałbym pracowac dla największych światowych developerów takich jak: Google, Microsoft i Mojang(Twórcy Minecraft).
+W przyszłości chciałbym pracować dla największych światowych developerów takich jak: Google, Microsoft i Mojang(Twórcy Minecraft).
 Chciałbym również otworzyć własną firme w branży IT.
 ## Linki
  [Youtube](https://www.youtube.com/channel/UCzXZoIK3llGpC8Sw8uR7LpA)
