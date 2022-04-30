@@ -7,16 +7,10 @@ Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym
 Mam doświadczenie z językiem programowania scratch. Uczę się programować w jezyku python i javascript.
 ## Moje Cele
 W przyszłości chciałbym pracowac dla największych światowych dystrybutorów takich jak: Google, Microsoft i Mojang(Twórcy Minecraft).
-Chciałbym również otworzyc własną firme w branży AT.
+Chciałbym również otworzyc własną firme w branży IT.
 ## Linki
  [Youtube](https://www.youtube.com/channel/UCzXZoIK3llGpC8Sw8uR7LpA)
 [Scratch](https://scratch.mit.edu/users/Matrixse4-0/)
 [Itch](https://elogame555.itch.io/)
 [Tiktok](https://www.tiktok.com/@matrix._123)
-
-
- 
-
- 
-
 
