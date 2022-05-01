@@ -14,3 +14,4 @@ Chciałbym również otworzyć własną firme w branży IT.
 [Scratch](https://scratch.mit.edu/users/Matrixse4-0/)
 [Itch](https://elogame555.itch.io/)
 [Tiktok](https://www.tiktok.com/@matrix._123)
+[Mój Blog](https://matrixse4-0.blogspot.com/)
