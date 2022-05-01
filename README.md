@@ -1,7 +1,8 @@
 # Mateusz Gniadzik
 
 ## O mnie
-Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym to robić profesjnalnie dla gigantów na rynku.
+Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym to robić profesjnalnie dla gigantów na rynku. Lubię również rysować co w połączeniu z moją pasją do programowania może zaowocować 
+dobrymi produkcjami.
 
 ## Doświadczenie
 Mam doświadczenie z językiem programowania scratch. Uczę się programować w jezyku python i javascript.
