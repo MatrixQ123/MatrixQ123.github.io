@@ -3,6 +3,7 @@
 ## O mnie
 Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym to robić profesjnalnie dla gigantów na rynku. Lubię również rysować co w połączeniu z moją pasją do programowania może zaowocować 
 dobrymi produkcjami.
+![](https://photos.google.com/photo/AF1QipOxMV7UFYfkodlUdSEqDodYNwUqDdjdpr4X0M-d)
 
 ## Doświadczenie
 Mam doświadczenie z językiem programowania scratch. Uczę się programować w jezyku python i javascript.
@@ -12,6 +13,7 @@ Chciałbym również otworzyć własną firme w branży IT.
 ## Linki
  
 [Itch](https://elogame555.itch.io/)    [Tiktok](https://www.tiktok.com/@matrix._123)    [Mój Blog](matrixse4-0.blogspot.com)    [Scratch](https://scratch.mit.edu/users/Matrixse4-0/)    [Youtube](https://www.youtube.com/channel/UCzXZoIK3llGpC8Sw8uR7LpA)
+
 
 
 
