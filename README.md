@@ -1,9 +1,10 @@
 # あyかと
+![image](https://user-images.githubusercontent.com/104672503/167438822-8124520c-a221-4ec2-acf0-68137d9ade39.png)
 
 ## O mnie
 Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym to robić profesjnalnie dla gigantów na rynku. Lubię również rysować co w połączeniu z moją pasją do programowania może zaowocować 
 dobrymi produkcjami.
-![image](https://user-images.githubusercontent.com/104672503/167438709-c1a5ff71-ac61-4dd0-ab82-4968ff44617e.png)
+
 
 
 ## Doświadczenie
