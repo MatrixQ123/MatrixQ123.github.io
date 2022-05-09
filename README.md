@@ -3,6 +3,8 @@
 ## O mnie
 Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym to robić profesjnalnie dla gigantów na rynku. Lubię również rysować co w połączeniu z moją pasją do programowania może zaowocować 
 dobrymi produkcjami.
+![image](https://user-images.githubusercontent.com/104672503/167438709-c1a5ff71-ac61-4dd0-ab82-4968ff44617e.png)
+
 
 ## Doświadczenie
 Mam doświadczenie z językiem programowania scratch. Uczę się programować w jezyku python i javascript.
