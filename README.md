@@ -12,8 +12,8 @@ Mam doświadczenie z językiem programowania scratch. Uczę się programować w 
 W przyszłości chciałbym pracować dla największych światowych developerów takich jak: Google, Microsoft i Mojang(Twórcy Minecraft).
 Chciałbym również otworzyć własną firme w branży IT.
 ## Linki
-![image](https://user-images.githubusercontent.com/104672503/167438947-12874a7e-e054-40b8-88e5-66c87b2f718f.png)
-
  
 [Itch](https://elogame555.itch.io/)    [Tiktok](https://www.tiktok.com/@matrix._123)      [Scratch](https://scratch.mit.edu/users/Matrixse4-0/)    [Youtube](https://www.youtube.com/channel/UCzXZoIK3llGpC8Sw8uR7LpA)
+![image](https://user-images.githubusercontent.com/104672503/167439073-216b13a9-3fb5-452e-9f3a-502b675c843a.png)
+
 
