@@ -1,5 +1,4 @@
 # あyかと
-![image](https://user-images.githubusercontent.com/104672503/167438822-8124520c-a221-4ec2-acf0-68137d9ade39.png)
 
 ## O mnie
 Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym to robić profesjnalnie dla gigantów na rynku. Lubię również rysować co w połączeniu z moją pasją do programowania może zaowocować 
@@ -13,6 +12,8 @@ Mam doświadczenie z językiem programowania scratch. Uczę się programować w 
 W przyszłości chciałbym pracować dla największych światowych developerów takich jak: Google, Microsoft i Mojang(Twórcy Minecraft).
 Chciałbym również otworzyć własną firme w branży IT.
 ## Linki
+![image](https://user-images.githubusercontent.com/104672503/167438947-12874a7e-e054-40b8-88e5-66c87b2f718f.png)
+
  
 [Itch](https://elogame555.itch.io/)    [Tiktok](https://www.tiktok.com/@matrix._123)      [Scratch](https://scratch.mit.edu/users/Matrixse4-0/)    [Youtube](https://www.youtube.com/channel/UCzXZoIK3llGpC8Sw8uR7LpA)
 
