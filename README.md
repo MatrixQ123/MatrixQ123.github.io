@@ -20,7 +20,7 @@ Odrazu mówię, że piosenki nie są moje.
 Jeśli jesteście zainteresowani tworzeniem gier w roblox Studio to wszelkie zainteresowania proszę 
 zgłaszać na mojego Maila mateo1_15@o2.pl
 
- 1. [ ]   Masz sporo czasu wolnego
+ 1. [x]   Masz sporo czasu wolnego
  2. [ ]   Lubisz Programować
  4. [ ]   Umiesz Programować
 
