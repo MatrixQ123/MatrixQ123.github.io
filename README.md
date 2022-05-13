@@ -1,1 +1,27 @@
-# あyかと ## O mnie Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym to robić profesjnalnie dla gigantów na rynku. Lubię również rysować co w połączeniu z moją pasją do programowania może zaowocować dobrymi produkcjami. ## Doświadczenie Mam doświadczenie z językiem programowania scratch. Uczę się programować w jezyku python i javascript. ## Moje Cele W przyszłości chciałbym pracować dla największych światowych developerów takich jak: Google, Microsoft i Mojang(Twórcy Minecraft). Chciałbym również otworzyć własną firme w branży IT. ## Muzyka [Moja Muzyczna PlayLista](https://www.youtube.com/watch?v=Ie6GepMvJdY&list=PLX4rNx2yJl1cC--k9XtuEdTNl4C6BpUUR) Odrazu mówię, że piosenki nie są moje. ## Informacje Jeśli jesteście zainteresowani tworzeniem gier w roblox Studio to wszelkie zainteresowania proszę zgłaszać na mojego Maila mateo1_15@o2.pl ## Linki [Itch](https://elogame555.itch.io/)    [Tiktok](https://www.tiktok.com/@matrix._123)   [Mój Blog](matrixse4-0.blogspot.com)    [Scratch](https://scratch.mit.edu/users/Matrixse4-0/)    [Youtube](https://www.youtube.com/channel/UCzXZoIK3llGpC8Sw8uR7LpA) ______________________________________________________
+# あyかと
+
+
+
+## O mnie
+Jestem początkującym GameDeveloperem. Programowanie to moja pasja i chciałbym to robić profesjnalnie dla gigantów na rynku. Lubię również rysować co w połączeniu z moją pasją do programowania może zaowocować 
+dobrymi produkcjami.
+
+## Doświadczenie
+Mam doświadczenie z językiem programowania scratch. Uczę się programować w jezyku python i javascript.
+## Moje Cele
+W przyszłości chciałbym pracować dla największych światowych developerów takich jak: Google, Microsoft i Mojang(Twórcy Minecraft).
+Chciałbym również otworzyć własną firme w branży IT.
+
+## Muzyka
+[Moja Muzyczna PlayLista](https://www.youtube.com/watch?v=Ie6GepMvJdY&list=PLX4rNx2yJl1cC--k9XtuEdTNl4C6BpUUR)
+Odrazu mówię, że piosenki nie są moje.
+
+## Informacje
+Jeśli jesteście zainteresowani tworzeniem gier w roblox Studio to wszelkie zainteresowania proszę 
+zgłaszać na mojego Maila mateo1_15@o2.pl
+
+## Linki
+ 
+[Itch](https://elogame555.itch.io/)    [Tiktok](https://www.tiktok.com/@matrix._123)   [Mój Blog](matrixse4-0.blogspot.com)    [Scratch](https://scratch.mit.edu/users/Matrixse4-0/)    [Youtube](https://www.youtube.com/channel/UCzXZoIK3llGpC8Sw8uR7LpA)
+
+______________________________________________________
