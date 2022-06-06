@@ -20,9 +20,14 @@ Odrazu mówię, że piosenki nie są moje.
 Jeśli jesteście zainteresowani tworzeniem gier w roblox Studio to wszelkie zainteresowania proszę 
 zgłaszać na mojego Maila mateo1_15@o2.pl
 
+## Discord
+
+### Moje boty discord
+
+ - [1 Bot - Qp&8Uughge](https://discord.com/api/oauth2/authorize?client_id=983017872882302996&permissions=8&scope=bot) Data stworzenia 06.06.2022r.
+
 ## Linki
  
 [Itch](https://elogame555.itch.io/)    [Tiktok](https://www.tiktok.com/@matrix._123)      [Scratch](https://scratch.mit.edu/users/Matrixse4-0/)    [Youtube](https://www.youtube.com/channel/UCzXZoIK3llGpC8Sw8uR7LpA)
 
 ______________________________________________________
-
