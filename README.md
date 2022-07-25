@@ -17,14 +17,14 @@ Chciałbym również otworzyć własną firme w branży IT.
 Odrazu mówię, że piosenki nie są moje.
 
 ## Informacje
-Jeśli jesteście zainteresowani tworzeniem gier w roblox Studio to wszelkie zainteresowania proszę 
+Jeśli jesteście zainteresowani tworzeniem gier w scratchu to wszelkie zainteresowania proszę 
 zgłaszać na mojego Maila mateo1_15@o2.pl
 
-## Discord
 
-### Moje boty discord
 
- - [1 Bot - Qp&8Uughge](https://discord.com/api/oauth2/authorize?client_id=983017872882302996&permissions=8&scope=bot) Data stworzenia 06.06.2022r.
+
+
+
 
 ## Linki
  
